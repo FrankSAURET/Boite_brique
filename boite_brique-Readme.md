@@ -1,4 +1,4 @@
-# LaserCut_Box
+# Boite_brique
 -----
 Version 2021.1
 For inkscape V 1.x
@@ -28,6 +28,6 @@ The actual directory can be found under Preferences/System.
 
 Restart inkscape.
 
-The table will be available under "Extensions > Découpe Laser > Boites".
+The extension will be available under "Extensions > Découpe Laser > Boite « Brique »...".
 
 All code is offered under Licence : GPLV2.
