@@ -1,4 +1,6 @@
 # Ignore all zip files
 *.zip
 # Ignore all subdirectories
-*/
+
+# Ignore all files in the images directory
+images/*

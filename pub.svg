@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="157.81447mm"
+   height="181.4946mm"
+   viewBox="0 0 157.81447 181.4946"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="default.fr.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.70710683"
+     inkscape:cx="1131.3708"
+     inkscape:cy="579.82752"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer3"
+     showgrid="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1057"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:snap-grids="true"
+     inkscape:pagecheckerboard="false"
+     borderlayer="true"
+     inkscape:snap-path-clip="true"
+     inkscape:document-rotation="0"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid25"
+       units="mm"
+       spacingx="0.5"
+       spacingy="0.50000001"
+       empspacing="10"
+       snapvisiblegridlinesonly="false"
+       originx="-260.29202"
+       originy="-109.863"
+       visible="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-nc-sa/4.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-nc-sa/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:prohibits
+           rdf:resource="http://creativecommons.org/ns#CommercialUse" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Découpes"
+     transform="translate(-260.29201,-109.86299)">
+    <g
+       id="box8648"
+       transform="translate(263.342,112.913)"
+       inkscape:export-filename="box8648.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <path
+         style="fill:none;stroke:#660066;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter"
+         id="box8648-lid"
+         d="M 0,0 H 4.5 V -3 H 13.5 V 0 H 18 22.5 V -3 H 31.5 V 0 H 36 40.5 V -3 H 49.5 V 0 H 54 V 2 H 57 V 6 H 54 V 8 10 H 57 V 14 H 54 V 16 18 H 57 V 22 H 54 V 24 H 49.5 V 27 H 40.5 V 24 H 36 31.5 V 27 H 22.5 V 24 H 18 13.5 V 27 H 4.5 V 24 H 0 V 22 H -3 V 18 H 0 V 16 14 H -3 V 10 H 0 V 8 6 H -3 V 2 H 0 V 0 0" />
+      <path
+         style="fill:none;stroke:#660066;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter"
+         id="box8648-longside1"
+         d="M -3,27 V 24 H 0 M 57,24 V 27 27.75 H 54 V 29.25 H 57 V 30 30.75 H 54 V 32.25 H 57 V 33 33.75 H 54 V 35.25 H 57 V 36 39 H 54 49.5 V 36 H 40.5 V 39 H 36 31.5 V 36 H 22.5 V 39 H 18 13.5 V 36 H 4.5 V 39 H 0 -3 V 36 35.25 H 0 V 33.75 H -3 V 33 32.25 H 0 V 30.75 H -3 V 30 29.25 H 0 V 27.75 H -3 V 27 27" />
+      <path
+         style="fill:none;stroke:#660066;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter"
+         id="box8648-base"
+         d="M 0,39 M 54,39 V 41 H 57 V 45 H 54 V 47 49 H 57 V 53 H 54 V 55 57 H 57 V 61 H 54 V 63 H 49.5 V 66 H 40.5 V 63 H 36 31.5 V 66 H 22.5 V 63 H 18 13.5 V 66 H 4.5 V 63 H 0 V 61 H -3 V 57 H 0 V 55 53 H -3 V 49 H 0 V 47 45 H -3 V 41 H 0 V 39 39" />
+      <path
+         style="fill:none;stroke:#660066;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter"
+         id="box8648-longside2"
+         d="M -3,66 V 63 H 0 M 57,63 V 66 66.75 H 54 V 68.25 H 57 V 69 69.75 H 54 V 71.25 H 57 V 72 72.75 H 54 V 74.25 H 57 V 75 78 H 54 49.5 V 75 H 40.5 V 78 H 36 31.5 V 75 H 22.5 V 78 H 18 13.5 V 75 H 4.5 V 78 H 0 -3 V 75 74.25 H 0 V 72.75 H -3 V 72 71.25 H 0 V 69.75 H -3 V 69 68.25 H 0 V 66.75 H -3 V 66 66" />
+      <path
+         style="fill:none;stroke:#660066;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter"
+         id="box8648-endface2"
+         d="M 54,0 H 57 57.75 V -3 H 59.25 V 0 H 60 60.75 V -3 H 62.25 V 0 H 63 63.75 V -3 H 65.25 V 0 H 66 69 V 2 H 66 V 6 H 69 V 8 10 H 66 V 14 H 69 V 16 18 H 66 V 22 H 69 V 24 H 66 65.25 V 27 H 63.75 V 24 H 63 62.25 V 27 H 60.75 V 24 H 60 59.25 V 27 H 57.75 V 24 H 57 54" />
+      <path
+         style="fill:none;stroke:#660066;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter"
+         id="box8648-endface1"
+         d="M 54,39 H 57 57.75 V 36 H 59.25 V 39 H 60 60.75 V 36 H 62.25 V 39 H 63 63.75 V 36 H 65.25 V 39 H 66 69 V 41 H 66 V 45 H 69 V 47 49 H 66 V 53 H 69 V 55 57 H 66 V 61 H 69 V 63 H 66 65.25 V 66 H 63.75 V 63 H 63 62.25 V 66 H 60.75 V 63 H 60 59.25 V 66 H 57.75 V 63 H 57 54" />
+    </g>
+    <g
+       id="box5788"
+       transform="translate(344.70645,112.913)">
+      <path
+         style="fill:none;stroke:#660066;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter"
+         id="box5788-lid"
+         d="M 0,0 M -3,-3 H 57 V 27 H -3 V -3" />
+      <path
+         style="fill:none;stroke:#660066;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter"
+         id="box5788-longside1"
+         d="M -3,30 V 27 H 0 M 57,27 V 30 30.75 H 54 V 32.25 H 57 V 33 33.75 H 54 V 35.25 H 57 V 36 36.75 H 54 V 38.25 H 57 V 39 42 H 54 49.5 V 39 H 40.5 V 42 H 36 31.5 V 39 H 22.5 V 42 H 18 13.5 V 39 H 4.5 V 42 H 0 -3 V 39 38.25 H 0 V 36.75 H -3 V 36 35.25 H 0 V 33.75 H -3 V 33 32.25 H 0 V 30.75 H -3 V 30 30" />
+      <path
+         style="fill:none;stroke:#660066;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter"
+         id="box5788-base"
+         d="M 0,42 M 54,42 V 44 H 57 V 48 H 54 V 50 52 H 57 V 56 H 54 V 58 60 H 57 V 64 H 54 V 66 H 49.5 V 69 H 40.5 V 66 H 36 31.5 V 69 H 22.5 V 66 H 18 13.5 V 69 H 4.5 V 66 H 0 V 64 H -3 V 60 H 0 V 58 56 H -3 V 52 H 0 V 50 48 H -3 V 44 H 0 V 42 42" />
+      <path
+         style="fill:none;stroke:#660066;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter"
+         id="box5788-longside2"
+         d="M -3,69 V 66 H 0 M 57,66 V 69 69.75 H 54 V 71.25 H 57 V 72 72.75 H 54 V 74.25 H 57 V 75 75.75 H 54 V 77.25 H 57 V 78 81 H 54 0 -3 V 78 77.25 H 0 V 75.75 H -3 V 75 74.25 H 0 V 72.75 H -3 V 72 71.25 H 0 V 69.75 H -3 V 69 69" />
+      <path
+         style="fill:none;stroke:#660066;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter"
+         id="box5788-endface2"
+         d="M 57,0 H 60 60.75 V -3 H 62.25 V 0 H 63 63.75 V -3 H 65.25 V 0 H 66 66.75 V -3 H 68.25 V 0 H 69 72 V 2 H 69 V 6 H 72 V 8 10 H 69 V 14 H 72 V 16 18 H 69 V 22 H 72 V 24 H 69 68.25 V 27 H 66.75 V 24 H 66 65.25 V 27 H 63.75 V 24 H 63 62.25 V 27 H 60.75 V 24 H 60 57" />
+      <path
+         style="fill:none;stroke:#660066;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter"
+         id="box5788-endface1"
+         d="M 54,42 H 57 57.75 V 39 H 59.25 V 42 H 60 60.75 V 39 H 62.25 V 42 H 63 63.75 V 39 H 65.25 V 42 H 66 69 V 66 H 66 65.25 V 69 H 63.75 V 66 H 63 62.25 V 69 H 60.75 V 66 H 60 59.25 V 69 H 57.75 V 66 H 57 54" />
+    </g>
+    <g
+       id="box1674"
+       transform="translate(344.73145,200.6826)">
+      <path
+         style="fill:none;stroke:#660066;stroke-width:0.15;stroke-linecap:butt;stroke-linejoin:miter"
+         id="box1674-lid"
+         d="M 0,0 M -3,-3 H 57.15 V 27.15 H -3 V -3.075" />
+      <path
+         style="fill:none;stroke:#660066;stroke-width:0.15;stroke-linecap:butt;stroke-linejoin:miter"
+         id="box1674-longside1"
+         d="M -3,31.15 V 28.15 H 0 57.15 V 31.15 31.9875 H 54.15 V 33.3625 H 57.15 V 34.2 35.0375 H 54.15 V 36.4125 H 57.15 V 37.25 38.0875 H 54.15 V 39.4625 H 57.15 V 40.3 43.3 H 54.15 49.5625 V 40.3 H 40.6875 V 43.3 H 36.1 31.5125 V 40.3 H 22.6375 V 43.3 H 18.05 13.4625 V 40.3 H 4.5875 V 43.3 H 0 -3 V 40.3 39.4625 H 0 V 38.0875 H -3 V 37.25 36.4125 H 0 V 35.0375 H -3 V 34.2 33.3625 H 0 V 31.9875 H -3 V 31.15 H -2.925" />
+      <path
+         style="fill:none;stroke:#660066;stroke-width:0.15;stroke-linecap:butt;stroke-linejoin:miter"
+         id="box1674-base"
+         d="M 0,47.3 H 4.4375 V 44.3 H 13.6125 V 47.3 H 18.05 22.4875 V 44.3 H 31.6625 V 47.3 H 36.1 40.5375 V 44.3 H 49.7125 V 47.3 H 54.15 V 49.2375 H 57.15 V 53.4125 H 54.15 V 55.35 57.2875 H 57.15 V 61.4625 H 54.15 V 63.4 65.3375 H 57.15 V 69.5125 H 54.15 V 71.45 H 49.7125 V 74.45 H 40.5375 V 71.45 H 36.1 31.6625 V 74.45 H 22.4875 V 71.45 H 18.05 13.6125 V 74.45 H 4.4375 V 71.45 H 0 V 69.5125 H -3 V 65.3375 H 0 V 63.4 61.4625 H -3 V 57.2875 H 0 V 55.35 53.4125 H -3 V 49.2375 H 0 V 47.3 47.225" />
+      <path
+         style="fill:none;stroke:#660066;stroke-width:0.15;stroke-linecap:butt;stroke-linejoin:miter"
+         id="box1674-longside2"
+         d="M -3,78.45 V 75.45 H 0 4.5875 V 78.45 H 13.4625 V 75.45 H 18.05 22.6375 V 78.45 H 31.5125 V 75.45 H 36.1 40.6875 V 78.45 H 49.5625 V 75.45 H 54.15 57.15 V 78.45 79.2875 H 54.15 V 80.6625 H 57.15 V 81.5 82.3375 H 54.15 V 83.7125 H 57.15 V 84.55 85.3875 H 54.15 V 86.7625 H 57.15 V 87.6 90.6 H 54.15 0 -3 V 87.6 86.7625 H 0 V 85.3875 H -3 V 84.55 83.7125 H 0 V 82.3375 H -3 V 81.5 80.6625 H 0 V 79.2875 H -3 V 78.45 H -2.925" />
+      <path
+         style="fill:none;stroke:#660066;stroke-width:0.15;stroke-linecap:butt;stroke-linejoin:miter"
+         id="box1674-endface2"
+         d="M 58.15,0 H 61.15 61.8375 V -3 H 63.5125 V 0 H 64.2 64.8875 V -3 H 66.5625 V 0 H 67.25 67.9375 V -3 H 69.6125 V 0 H 70.3 73.3 V 2.0875 H 70.3 V 5.9625 H 73.3 V 8.05 10.1375 H 70.3 V 14.0125 H 73.3 V 16.1 18.1875 H 70.3 V 22.0625 H 73.3 V 24.15 H 70.3 69.4625 V 27.15 H 68.0875 V 24.15 H 67.25 66.4125 V 27.15 H 65.0375 V 24.15 H 64.2 63.3625 V 27.15 H 61.9875 V 24.15 H 61.15 58.15 V -0.075" />
+      <path
+         style="fill:none;stroke:#660066;stroke-width:0.15;stroke-linecap:butt;stroke-linejoin:miter"
+         id="box1674-endface1"
+         d="M 58.15,31.15 H 61.15 61.8375 V 28.15 H 63.5125 V 31.15 H 64.2 64.8875 V 28.15 H 66.5625 V 31.15 H 67.25 67.9375 V 28.15 H 69.6125 V 31.15 H 70.3 73.3 V 55.3 H 70.3 69.4625 V 58.3 H 68.0875 V 55.3 H 67.25 66.4125 V 58.3 H 65.0375 V 55.3 H 64.2 63.3625 V 58.3 H 61.9875 V 55.3 H 61.15 58.15 V 53.2125 H 61.15 V 49.3375 H 58.15 V 47.25 45.1625 H 61.15 V 41.2875 H 58.15 V 39.2 37.1125 H 61.15 V 33.2375 H 58.15 V 31.15 31.075" />
+    </g>
+    <g
+       id="box9168"
+       transform="translate(263.367,200.6826)">
+      <path
+         style="fill:none;stroke:#660066;stroke-width:0.15;stroke-linecap:butt;stroke-linejoin:miter"
+         id="box9168-lid"
+         d="M 0,0 H 4.4375 V -3 H 13.6125 V 0 H 18.05 22.4875 V -3 H 31.6625 V 0 H 36.1 40.5375 V -3 H 49.7125 V 0 H 54.15 V 1.9375 H 57.15 V 6.1125 H 54.15 V 8.05 9.9875 H 57.15 V 14.1625 H 54.15 V 16.1 18.0375 H 57.15 V 22.2125 H 54.15 V 24.15 H 49.7125 V 27.15 H 40.5375 V 24.15 H 36.1 31.6625 V 27.15 H 22.4875 V 24.15 H 18.05 13.6125 V 27.15 H 4.4375 V 24.15 H 0 V 22.2125 H -3 V 18.0375 H 0 V 16.1 14.1625 H -3 V 9.9875 H 0 V 8.05 6.1125 H -3 V 1.9375 H 0 V 0 -0.075" />
+      <path
+         style="fill:none;stroke:#660066;stroke-width:0.15;stroke-linecap:butt;stroke-linejoin:miter"
+         id="box9168-longside1"
+         d="M -3,31.15 V 28.15 H 0 4.5875 V 31.15 H 13.4625 V 28.15 H 18.05 22.6375 V 31.15 H 31.5125 V 28.15 H 36.1 40.6875 V 31.15 H 49.5625 V 28.15 H 54.15 57.15 V 31.15 31.9875 H 54.15 V 33.3625 H 57.15 V 34.2 35.0375 H 54.15 V 36.4125 H 57.15 V 37.25 38.0875 H 54.15 V 39.4625 H 57.15 V 40.3 43.3 H 54.15 49.5625 V 40.3 H 40.6875 V 43.3 H 36.1 31.5125 V 40.3 H 22.6375 V 43.3 H 18.05 13.4625 V 40.3 H 4.5875 V 43.3 H 0 -3 V 40.3 39.4625 H 0 V 38.0875 H -3 V 37.25 36.4125 H 0 V 35.0375 H -3 V 34.2 33.3625 H 0 V 31.9875 H -3 V 31.15 H -2.925" />
+      <path
+         style="fill:none;stroke:#660066;stroke-width:0.15;stroke-linecap:butt;stroke-linejoin:miter"
+         id="box9168-base"
+         d="M 0,47.3 H 4.4375 V 44.3 H 13.6125 V 47.3 H 18.05 22.4875 V 44.3 H 31.6625 V 47.3 H 36.1 40.5375 V 44.3 H 49.7125 V 47.3 H 54.15 V 49.2375 H 57.15 V 53.4125 H 54.15 V 55.35 57.2875 H 57.15 V 61.4625 H 54.15 V 63.4 65.3375 H 57.15 V 69.5125 H 54.15 V 71.45 H 49.7125 V 74.45 H 40.5375 V 71.45 H 36.1 31.6625 V 74.45 H 22.4875 V 71.45 H 18.05 13.6125 V 74.45 H 4.4375 V 71.45 H 0 V 69.5125 H -3 V 65.3375 H 0 V 63.4 61.4625 H -3 V 57.2875 H 0 V 55.35 53.4125 H -3 V 49.2375 H 0 V 47.3 47.225" />
+      <path
+         style="fill:none;stroke:#660066;stroke-width:0.15;stroke-linecap:butt;stroke-linejoin:miter"
+         id="box9168-longside2"
+         d="M -3,78.45 V 75.45 H 0 4.5875 V 78.45 H 13.4625 V 75.45 H 18.05 22.6375 V 78.45 H 31.5125 V 75.45 H 36.1 40.6875 V 78.45 H 49.5625 V 75.45 H 54.15 57.15 V 78.45 79.2875 H 54.15 V 80.6625 H 57.15 V 81.5 82.3375 H 54.15 V 83.7125 H 57.15 V 84.55 85.3875 H 54.15 V 86.7625 H 57.15 V 87.6 90.6 H 54.15 49.5625 V 87.6 H 40.6875 V 90.6 H 36.1 31.5125 V 87.6 H 22.6375 V 90.6 H 18.05 13.4625 V 87.6 H 4.5875 V 90.6 H 0 -3 V 87.6 86.7625 H 0 V 85.3875 H -3 V 84.55 83.7125 H 0 V 82.3375 H -3 V 81.5 80.6625 H 0 V 79.2875 H -3 V 78.45 H -2.925" />
+      <path
+         style="fill:none;stroke:#660066;stroke-width:0.15;stroke-linecap:butt;stroke-linejoin:miter"
+         id="box9168-endface2"
+         d="M 58.15,0 H 61.15 61.8375 V -3 H 63.5125 V 0 H 64.2 64.8875 V -3 H 66.5625 V 0 H 67.25 67.9375 V -3 H 69.6125 V 0 H 70.3 73.3 V 2.0875 H 70.3 V 5.9625 H 73.3 V 8.05 10.1375 H 70.3 V 14.0125 H 73.3 V 16.1 18.1875 H 70.3 V 22.0625 H 73.3 V 24.15 H 70.3 69.4625 V 27.15 H 68.0875 V 24.15 H 67.25 66.4125 V 27.15 H 65.0375 V 24.15 H 64.2 63.3625 V 27.15 H 61.9875 V 24.15 H 61.15 58.15 V 22.0625 H 61.15 V 18.1875 H 58.15 V 16.1 14.0125 H 61.15 V 10.1375 H 58.15 V 8.05 5.9625 H 61.15 V 2.0875 H 58.15 V 0 -0.075" />
+      <path
+         style="fill:none;stroke:#660066;stroke-width:0.15;stroke-linecap:butt;stroke-linejoin:miter"
+         id="box9168-endface1"
+         d="M 58.15,31.15 H 61.15 61.8375 V 28.15 H 63.5125 V 31.15 H 64.2 64.8875 V 28.15 H 66.5625 V 31.15 H 67.25 67.9375 V 28.15 H 69.6125 V 31.15 H 70.3 73.3 V 33.2375 H 70.3 V 37.1125 H 73.3 V 39.2 41.2875 H 70.3 V 45.1625 H 73.3 V 47.25 49.3375 H 70.3 V 53.2125 H 73.3 V 55.3 H 70.3 69.4625 V 58.3 H 68.0875 V 55.3 H 67.25 66.4125 V 58.3 H 65.0375 V 55.3 H 64.2 63.3625 V 58.3 H 61.9875 V 55.3 H 61.15 58.15 V 53.2125 H 61.15 V 49.3375 H 58.15 V 47.25 45.1625 H 61.15 V 41.2875 H 58.15 V 39.2 37.1125 H 61.15 V 33.2375 H 58.15 V 31.15 31.075" />
+    </g>
+  </g>
+</svg>
