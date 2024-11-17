@@ -43,7 +43,7 @@ Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA 02111-1307 USA
 #  0.2 changes to unittouu for Inkscape 0.91
 #  0.1 February 2011 - basic lasercut box with dimples etc
 
-__version__ = "2024.1"
+__version__ = "2024.2"
 
 #from math import *
 import sys
@@ -111,7 +111,7 @@ class LasercutBox(inkex.Effect):
                         help="Are kerf define by material")
         self.arg_parser.add_argument("-o", "--materiaux",
                         type=float,
-                        dest="materiaux", default=1, #**********************************************
+                        dest="materiaux", default=0.15,
                         help="Kerf size define by material")
         self.arg_parser.add_argument("-k", "--kerf_size",
                         type=float,
