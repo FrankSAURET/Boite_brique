@@ -28,6 +28,6 @@ Restart inkscape.
 
 The extension will be available under "Extensions > Découpe Laser > Boite « Brique »...".
 
-It can be update with **extensions > Mise à jour des extensions de Frank SAURET...** extension added in this pack.
+It can be update with **extensions > Mise à jour des extensions de Frank SAURET...** 
 
 All code is offered under Licence : GPLV2.
