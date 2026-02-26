@@ -1,7 +1,7 @@
 {
   "type": "InkScape extension",
-  "name": "Boite brique",
-  "short_description": "Génére des boîtes parallélépipédiques.",
+  "name": "Brick Box",
+  "short_description": "Generates parallelepiped boxes.",
   "author": "Frank SAURET",
   "version": "2026.1",
   "download": ["boite_brique/"],
