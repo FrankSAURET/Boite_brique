@@ -1,6 +1,6 @@
 # Boite_brique
 -----
-Version 2024.1
+Version 2026.1
 For inkscape V 1.x
 -----
 
@@ -21,13 +21,15 @@ The original extension is here : https://inkscape.org/~Neon22/%E2%98%85lasercut-
 Usage
 -----
 
-Copy the .inx and .py files in to your Inkscape extensions directory (usually on windows C:\Users\username\AppData\Roaming\inkscape\extensions or %appdata%\inkscape\extensions). 
+Copy the .inx and .py files in to your Inkscape extensions directory (usually on windows C:\Users\username\AppData\Roaming\inkscape\extensions or **%appdata%\inkscape\extensions**). 
 The actual directory can be found under Preferences/System.
 
 Restart inkscape.
 
 The extension will be available under "Extensions > Découpe Laser > Boite « Brique »...".
 
-It can be update with **extensions > Mise à jour des extensions de Frank SAURET...** 
+It can be download or update with **extensions > Mise à jour des extensions de Frank SAURET...** 
+
+Extensions Updater can be download here https://github.com/FrankSAURET/Maj
 
 All code is offered under Licence : GPLV2.

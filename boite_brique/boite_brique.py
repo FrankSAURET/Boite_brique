@@ -27,6 +27,7 @@ Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA 02111-1307 USA
 #  Ajouter une fonction pour faire un couvercle mobile et son reposoir
 
 ### Versions
+# 2026.1 Ajout de Info.json pour compatibilité abec Màj
 # 2024.1 Ajout d'un paramètre permettant de changer l'espacement des pièces
 #        Suppression des bosses (dimple),
 #        Suppression du dessin sans encoche de demi taille prés des coins,
@@ -43,7 +44,13 @@ Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA 02111-1307 USA
 #  0.2 changes to unittouu for Inkscape 0.91
 #  0.1 February 2011 - basic lasercut box with dimples etc
 
-__version__ = "2024.2"
+
+# Charger la version depuis Info.json
+import json
+import os
+INFO_PATH = os.path.join(os.path.dirname(__file__), 'Info.json')
+with open(INFO_PATH, encoding='utf-8') as f:
+    __version__ = json.load(f)["version"]
 
 #from math import *
 import sys
